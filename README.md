@@ -1,9 +1,4 @@
 ![GitHub Logo](https://mdcwap.mdc.edu/apply/assets/mdc-logo.png)
-
-<h1>Andres Lefeld<h1>
-  <body>
-    I am a Computer Science student at Miami Dade College.
-  </body>
 <!--
 **andreslefeld/andreslefeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
