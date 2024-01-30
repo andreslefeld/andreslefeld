@@ -1,4 +1,6 @@
-![GitHub Logo](https://mdcwap.mdc.edu/apply/assets/mdc-logo.png)
+<img src="https://mdcwap.mdc.edu/apply/assets/mdc-logo.png" alt="GitHub Logo" width="100%">
+
+<!-- ![GitHub Logo](https://mdcwap.mdc.edu/apply/assets/mdc-logo.png)
 <!--
 **andreslefeld/andreslefeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
